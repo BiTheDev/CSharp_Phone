@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/obj/Debug/netcoreapp2.0/Phone.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/obj/Debug/netcoreapp2.0/Phone.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/obj/Debug/netcoreapp2.0/Phone.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/obj/Debug/netcoreapp2.0/Phone.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/bin/Debug/netcoreapp2.0/Phone.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/bin/Debug/netcoreapp2.0/Phone.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/bin/Debug/netcoreapp2.0/Phone.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/bin/Debug/netcoreapp2.0/Phone.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/bin/Debug/netcoreapp2.0/Phone.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/obj/Debug/netcoreapp2.0/Phone.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Phone/obj/Debug/netcoreapp2.0/Phone.pdb
